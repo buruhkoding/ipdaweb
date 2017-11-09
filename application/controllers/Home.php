@@ -1,0 +1,16 @@
+<?php 
+/**
+* 
+*/
+class Home extends CI_Controller
+{
+	
+	// function __construct(argument)
+	// {
+	// 	# code...
+	// }
+
+	function index() {
+		echo "heheh";
+	}
+}
